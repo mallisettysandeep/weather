@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card {
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqhImnN1KCxe8k8DDt0pCl01uqmq6yZDPm3w&usqp=CAU");
+  max-width: 50%;
+  padding:70px;
+}
+input[type="submit"]{
+  background-color: lightblue;
+  border-radius: 3px;
+  padding:5px;
+}
+input[type="text"]{
+  border-radius: 3px;
+  padding:5px;
+}
+.card-title{
+  color: #0b0b0b;
+  font-size: 30px;
+}
